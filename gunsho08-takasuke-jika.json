@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/takasuke-jikaawase",
  "yomi": "たかすけあそんひゃくばんじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（百番）",
+  "era": "鎌倉前期",
+  "author": "藤原隆祐（自撰）",
+  "desc": "家隆の子隆祐が、春日社百首・九条前内大臣家百首などで詠んだ自歌二百首を百番に番えた自歌合。歌ごとに出典を記し、朱点は定家、黒点は「故入道」によると奥書にある。"
+ },
  "editions": [
   {
    "pid": "1879502",
